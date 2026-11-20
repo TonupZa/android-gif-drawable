@@ -1,4 +1,4 @@
-![horizontal.png](https://cdn.steemitimages.com/DQmacEdVnEf1f2GDZ4uga1evN3FzujdR4zbkqmiV7NscPBs/horizontal.png)
+ ![horizontal.png](https://cdn.steemitimages.com/DQmacEdVnEf1f2GDZ4uga1evN3FzujdR4zbkqmiV7NscPBs/horizontal.png)
 ====================
 [![Maven Central](https://img.shields.io/maven-central/v/pl.droidsonroids.gif/android-gif-drawable.svg)](https://central.sonatype.com/artifact/pl.droidsonroids.gif/android-gif-drawable)
 [![CI](https://github.com/koral--/android-gif-drawable/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/koral--/android-gif-drawable/actions/workflows/ci.yml?query=branch%3Adev)
